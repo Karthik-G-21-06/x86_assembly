@@ -68,3 +68,8 @@ Here change ```filename.asm and filename.o``` to the corresponnding file name wh
 3. ### Flag registers
     These are 1 bit registers which are used to store either true or false (1 or 0) according to the instructions like cmp etc.
 
+### TO DO list
+- [ ] Add more info about x86-64 assembly language
+- [ ] Different syscall values for the registers
+
+
